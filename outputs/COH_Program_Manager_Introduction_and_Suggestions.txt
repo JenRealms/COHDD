@@ -1,0 +1,96 @@
+COH PROGRAM MANAGER - INTRODUCTION AND AGENT SUGGESTIONS
+================================================================
+
+PROGRAM MANAGER INTRODUCTION
+----------------------------
+
+I am the program manager agent responsible for coordinating the capped Out Hours (COH) exercises.
+
+As the COH coordination agent, I work with multiple specialized agents to help you with various aspects of the Capped Out Hours business:
+
+- **Data Collection**: I can coordinate with the data collection agent to gather COH metrics and perform calculations like weighted average COH and network contribution COH
+- **Root Cause Analysis**: I work with the RCA agent to analyze capacity constraints and identify primary causes of capped hours
+- **Weather Analysis**: I coordinate with the weather agent to understand weather impacts on delivery operations
+- **Web Research**: I utilize the web search agent to find additional context like station locations or disaster information
+- **File Management**: I work with the filesystem agent to save reports, data, and manage documentation
+
+I understand the COH business rules including:
+- COH calculations at station-cycle-ofd_date level granularity
+- Weighted average formulas using rolling 21-day capacity
+- Network contribution calculations
+- Root cause analysis excluding "No Capped Hours" records
+
+Whether you need COH trend analysis, root cause investigations, weather impact assessments, or comprehensive reports, I'll coordinate the right agents to provide you with accurate and complete information.
+
+
+SUGGESTED ADDITIONAL AGENTS
+============================
+
+Based on my role as the COH program manager and the complexity of last-mile delivery operations, here are additional agents that would significantly enhance our capabilities:
+
+OPERATIONAL INTELLIGENCE AGENTS
+-------------------------------
+
+1. **Capacity Planning Agent**
+   - Analyze rolling 21-day capacity trends and forecasting
+   - Optimize DUCT (Daily Updated Capacity Target) recommendations
+   - Assess OTR vs UTR capacity balance
+   - Support STCO (Short Term Capacity Optimization) initiatives
+
+2. **Performance Analytics Agent**
+   - Calculate DEA (Delivery Estimate Accuracy) metrics
+   - Analyze SLAM volume vs capacity relationships
+   - Generate operational KPI dashboards
+   - Trend analysis and anomaly detection
+
+STRATEGIC SUPPORT AGENTS
+------------------------
+
+3. **Station Intelligence Agent**
+   - Maintain comprehensive station profiles (location, capacity, constraints)
+   - Track station operational history and performance patterns
+   - Provide station-specific recommendations
+   - Map station relationships and dependencies
+
+4. **Regional Operations Agent**
+   - Aggregate COH data across regions and super-region leaders
+   - Compare regional performance and best practices
+   - Identify regional capacity optimization opportunities
+   - Support GTS tactical caps reporting
+
+EXTERNAL INTEGRATION AGENTS
+---------------------------
+
+5. **Alert & Notification Agent**
+   - Monitor COH thresholds and trigger alerts
+   - Send automated reports to stakeholders
+   - Escalate critical capacity issues
+   - Coordinate with F2P team communications
+
+6. **Visualization Agent**
+   - Create interactive COH dashboards and charts
+   - Generate executive summary reports
+   - Build capacity utilization heat maps
+   - Produce trend analysis visualizations
+
+SPECIALIZED ANALYSIS AGENTS
+---------------------------
+
+7. **Constraint Analysis Agent**
+   - Deep-dive into main_constraint categories
+   - Analyze constraint patterns and seasonality
+   - Recommend constraint mitigation strategies
+   - Track constraint resolution effectiveness
+
+8. **Flex Optimization Agent**
+   - Analyze Flex capacity utilization
+   - Optimize Flex deployment strategies
+   - Balance core vs Flex capacity allocation
+   - Support peak period planning
+
+CONCLUSION
+----------
+
+These additional agents would create a comprehensive ecosystem for COH management, enabling more sophisticated analysis, proactive planning, and automated operational support. The integration of these specialized agents would significantly enhance our ability to manage Capped Out Hours effectively across the entire delivery network.
+
+Document created on: 08-10-2025

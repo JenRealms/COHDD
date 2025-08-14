@@ -1,0 +1,26 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+---
+description: Command to access to my AWS account
+globs: 
+alwaysApply: 
+---
+# AWS Access Command
+
+This file documents the command used to update AWS credentials for the specified account and role using the `ada` CLI tool.
+
+## Command
+
+```bash
+ada credentials update --account=816069163059 --provider=conduit --role=Orbit_science_dev_ADA_Access_role
+```
+
+## Purpose
+- Updates AWS credentials for account `816069163059` using the `conduit` provider.
+- Assumes the role `Orbit_science_dev_ADA_Access_role`.
+- Use this command to refresh or set your AWS credentials before accessing AWS resources programmatically or via the AWS CLI.
+
+> **Note:** Do not share your AWS credentials or secret keys in this file. This is for documentation of the access method only.

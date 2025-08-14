@@ -1,0 +1,367 @@
+station_code,msa,region,Daily COH,Network COH
+DPS5,Los Angeles-Riverside-Orange County CA,Fresno,46,0.1132
+DNO3,,Bayou Belt,39.75,1.00E-04
+DNA6,Knoxville TN MSA,Sun Belt,38.58,0.1377
+DHI2,Honolulu HI MSA,Orange County,28.33,0.0783
+DYR3,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Long Island,14.42,0.0167
+DBM3,Mobile AL MSA,Tennessee,12.17,0.0126
+DML3,Appleton-Oshkosh-Neenah WI MSA,Wisconsin,9.42,0.0315
+DLT6,Greensboro--Winston-Salem--High Point NC MSA,Tarheel,9,0.018
+DTP7,Tampa-St. Petersburg-Clearwater FL MSA,Central Florida,8.92,0.0359
+DMO4,Daytona Beach FL MSA,Disney,8.5,0.0203
+DTP9,Tampa-St. Petersburg-Clearwater FL MSA,Central Florida,8.5,0.0252
+DAS9,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,South Shore,8,0.0254
+DSC4,Charleston-North Charleston SC MSA,Northern FL,7.75,0.0279
+DJX2,Jacksonville FL MSA,Northern FL,7.67,0.0156
+DIN6,Fort Wayne IN MSA,Windlake,7.5,0.0218
+DCM3,Cleveland-Akron OH CMSA,Cleveland-Pitt,7.42,0.0283
+DJT6,Los Angeles-Riverside-Orange County CA,Inland Empire,7.25,0.0428
+DLR2,Little Rock-North Little Rock AR MSA,St. Louis,7.17,0.0189
+DOK6,Tulsa OK MSA,Ozark,7.08,0.0152
+DRT4,Greenville-Spartanburg-Anderson SC MSA,Sun Belt,7,0.0198
+DTP3,Tampa-St. Petersburg-Clearwater FL MSA,Gulf Coast,6.83,0.0227
+DMF8,Tampa-St. Petersburg-Clearwater FL MSA,Gulf Coast,6.58,0.0138
+DJX4,Jacksonville FL MSA,Northern FL,6,0.0225
+DFL7,Lakeland-Winter Haven FL MSA,Central Florida,5.75,0.0215
+DFX4,Los Angeles-Riverside-Orange County CA,Fresno,5.75,0.0101
+DEB2,Hartford CT MSA,Hartford,5.67,0.0088
+DFM5,Sarasota-Bradenton FL MSA,Gulf Coast,5.58,0.0245
+DNO2,New Orleans LA MSA,Bayou Belt,5.33,0.0199
+DFL4,Orlando FL MSA,Disney,5.08,0.0241
+DNA4,Memphis TN-AR-MS MSA,Tennessee,5.08,0.0198
+DFL5,Orlando FL MSA,Disney,5,0.0224
+DDX7,Dallas-Fort Worth TX CMSA,DFW,5,0.0241
+DAU7,Austin-San Marcos TX MSA,DFW,4.92,0.0215
+DLI5,St. Louis MO-IL MSA,St. Louis,4.83,0.0081
+DIA4,Cedar Rapids IA MSA,Wisconsin,4.83,0.0088
+DBO7,Springfield MA MSA,Hartford,4.5,0.0089
+DYO5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Connecticut,4.42,0.0055
+DCK1,Modesto CA MSA,Sacramento,4.33,0.0111
+DVB8,Miami-Fort Lauderdale FL CMSA,Miami,4.33,0.0148
+DMD5,Washington-Baltimore DC-MD-VA-WV CMSA,Baltimore,4.25,0.0038
+DSC3,Greenville-Spartanburg-Anderson SC MSA,Sun Belt,4.25,0.0135
+DDV4,Colorado Springs CO MSA,Colorado,3.92,0.0133
+DDP7,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Trenton,3.58,0.007
+DTB9,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Boston Northeast,3.5,0.0056
+DHX1,Houston-Galveston-Brazoria TX CMSA,Bayou Belt,3.5,0.0191
+DSD5,San Diego CA MSA,San Diego,3.42,0.0083
+DSF7,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,3.33,0.0076
+DIN3,South Bend IN MSA,Windlake,3.33,0.0051
+DCX8,Los Angeles-Riverside-Orange County CA,Orange County,3.25,0.0072
+DOK4,Oklahoma City OK MSA,Great Plains,3.25,0.0104
+DLX5,Los Angeles-Riverside-Orange County CA,Santa Clarita,3.25,0.0178
+DAU1,Austin-San Marcos TX MSA,Central Texas,3.25,0.0078
+DLX7,Los Angeles-Riverside-Orange County CA,Orange County,3.17,0.0066
+DGE4,Savannah GA MSA,Northern FL,3.17,0.0093
+DWI4,Madison WI MSA,Wisconsin,3.08,0.0044
+DSX5,San Antonio TX MSA,Central Texas,3.08,0.0131
+DCH6,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago South,3.08,0.0065
+DLV7,Las Vegas NV-AZ MSA,Desert North,3.08,0.0065
+DPS2,Los Angeles-Riverside-Orange County CA,Santa Clarita,3,0.0059
+DID3,Boise City ID MSA,Rockies,3,0.0055
+DCH8,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago North,3,0.009
+DKS3,Kansas City MO-KS MSA,Ozark,2.92,0.0086
+DYY8,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,The Bronx,2.92,0.0106
+DKC3,Columbia SC MSA,Northern FL,2.92,0.0048
+DPS6,Los Angeles-Riverside-Orange County CA,Santa Clarita,2.92,0.0035
+DSX9,San Antonio TX MSA,Central Texas,2.92,0.0083
+DSR4,Sacramento-Yolo CA CMSA,Sacramento,2.83,0.0084
+DML4,Chicago-Gary-Kenosha IL-IN-WI CMSA,Wisconsin,2.83,0.0083
+DMC3,Kansas City MO-KS MSA,Ozark,2.83,0.0073
+DDX6,Dallas-Fort Worth TX CMSA,Great Plains,2.83,0.0141
+DXH1,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago South,2.75,0.0037
+DSD8,San Diego CA MSA,San Diego,2.75,0.0093
+DJX3,Jacksonville FL MSA,Northern FL,2.75,0.008
+DCX2,Los Angeles-Riverside-Orange County CA,Inland Empire,2.75,0.0099
+DLX8,Los Angeles-Riverside-Orange County CA,Inland Empire,2.67,0.0054
+DTN8,Nashville TN MSA,Tennessee,2.67,0.0088
+DAX3,Los Angeles-Riverside-Orange County CA,Santa Clarita,2.67,0.0066
+DAX8,Los Angeles-Riverside-Orange County CA,Fresno,2.58,0.0054
+DBO6,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Boston Northeast,2.58,0.0034
+DLN2,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago South,2.58,0.0085
+DUR1,Los Angeles-Riverside-Orange County CA,Santa Clarita,2.58,0.0067
+DMI9,Miami-Fort Lauderdale FL CMSA,Miami,2.5,0.0038
+DDF4,Dallas-Fort Worth TX CMSA,DFW,2.42,0.0117
+DII4,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago South,2.42,0.0063
+DBM5,Birmingham AL MSA,Tennessee,2.42,0.0088
+DJC5,Salinas CA MSA,Fresno,2.42,0.0049
+DAU5,Austin-San Marcos TX MSA,Central Texas,2.33,0.0097
+DDA9,Dallas-Fort Worth TX CMSA,DFW,2.33,0.0095
+DCB8,Providence-Fall River-Warwick RI-MA MSA,Tri-State,2.33,0.0075
+DCD6,Charlotte-Gastonia-Rock Hill NC-SC MSA,Sun Belt,2.25,0.0089
+DTU9,Phoenix-Mesa AZ MSA,Desert East,2.17,0.0055
+DDO6,Los Angeles-Riverside-Orange County CA,Los Angeles,2.17,0.0049
+DFL3,Gainesville FL MSA,Disney,2.17,0.0049
+DLB2,Baton Rouge LA MSA,Bayou Belt,2.08,0.0069
+DBL8,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Connecticut,2.08,0.0043
+DHX4,Houston-Galveston-Brazoria TX CMSA,Houston,2.08,0.0101
+DMO3,Orlando FL MSA,Disney,2,0.008
+DXC3,Los Angeles-Riverside-Orange County CA,Orange County,2,0.0042
+DUR9,Los Angeles-Riverside-Orange County CA,Inland Empire,1.92,0.0039
+DAS8,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Boston Northeast,1.92,0.0043
+DCM2,Dayton-Springfield OH MSA,Cincinnati,1.83,0.004
+DLV2,Las Vegas NV-AZ MSA,Desert North,1.75,0.0068
+DXH6,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago North,1.75,0.0067
+DFX9,Los Angeles-Riverside-Orange County CA,Orange County,1.75,0.006
+DLI6,St. Louis MO-IL MSA,St. Louis,1.75,0.0043
+DJZ3,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Manhattan,1.75,0.0037
+DTU6,Phoenix-Mesa AZ MSA,Phoenix,1.75,0.0057
+DIL5,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago North,1.75,0.0057
+DLI4,St. Louis MO-IL MSA,St. Louis,1.67,0.0025
+DCL3,Youngstown-Warren OH MSA,Cleveland-Pitt,1.67,0.0016
+DOB7,Hartford CT MSA,Hartford,1.58,0.0028
+DCS3,Colorado Springs CO MSA,Colorado,1.5,0.0027
+DMC4,Kansas City MO-KS MSA,Ozark,1.5,0.002
+DSX8,San Antonio TX MSA,Central Texas,1.5,0.0053
+DSR2,Sacramento-Yolo CA CMSA,Sacramento,1.5,0.0048
+DSD4,San Diego CA MSA,San Diego,1.5,0.004
+DDE8,Fort Collins-Loveland CO MSA,Colorado,1.42,0.0038
+DLX1,Los Angeles-Riverside-Orange County CA,Los Angeles,1.42,0.0012
+DHT4,Houston-Galveston-Brazoria TX CMSA,Houston,1.42,0.005
+DSD1,San Diego CA MSA,San Diego,1.25,0.0037
+DCW8,Bakersfield CA MSA,Fresno,1.17,0.0019
+DLF1,Fort Myers-Cape Coral FL MSA,Gulf Coast,1.17,0.0045
+DSF8,San Francisco-Oakland-San Jose CA CMSA,North Bay,1.17,0.0054
+DSR6,Sacramento-Yolo CA CMSA,Sacramento,1.08,0.0033
+DML6,Milwaukee-Racine WI CMSA,Wisconsin,1.08,0.0036
+DGE9,Atlanta GA MSA,Georgia,1.08,0.0053
+DXH5,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago South,1,0.0025
+DKO9,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,South Shore,1,0.003
+DFM4,Naples FL MSA,Gulf Coast,1,0.0021
+DFH3,Melbourne-Titusville-Palm Bay FL MSA,Central Florida,1,0.0036
+DDC3,Washington-Baltimore DC-MD-VA-WV CMSA,Capital,0.92,0.0027
+DDC9,Washington-Baltimore DC-MD-VA-WV CMSA,Capital,0.92,0.0015
+DLI9,St. Louis MO-IL MSA,St. Louis,0.92,0.0023
+DMH9,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,South Shore,0.67,0.0021
+DFL8,Orlando FL MSA,Disney,0.58,0.0022
+DSF5,San Francisco-Oakland-San Jose CA CMSA,North Bay,0.58,9.00E-04
+DOB2,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Hartford,0.58,7.00E-04
+DAU2,Austin-San Marcos TX MSA,Central Texas,0.5,0.0012
+DTG5,Atlanta GA MSA,Georgia,0.5,0.0013
+DSJ9,San Francisco-Oakland-San Jose CA CMSA,North Bay,0.5,6.00E-04
+DVA3,Washington-Baltimore DC-MD-VA-WV CMSA,Virginia,0.42,0.002
+DMP1,Minneapolis-St. Paul MN-WI MSA,Grain Belt,0.42,0.0011
+DLV3,Reno NV MSA,Sacramento,0.25,6.00E-04
+DOK2,Tulsa OK MSA,Ozark,0.17,2.00E-04
+DNJ2,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,North Jersey,0,0
+DFA5,San Francisco-Oakland-San Jose CA CMSA,North Bay,0,0
+DJR5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Manhattan,0,0
+DGR8,Grand Rapids-Muskegon-Holland MI MSA,Windlake,0,0
+DDT3,Detroit-Ann Arbor-Flint MI CMSA,Michigan,0,0
+DGE7,Atlanta GA MSA,Georgia,0,0
+DMF1,Miami-Fort Lauderdale FL CMSA,Miami,0,0
+DTU3,Phoenix-Mesa AZ MSA,Desert East,0,0
+DJE3,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Delaware Valley,0,0
+DPL2,Harrisburg-Lebanon-Carlisle PA MSA,Delaware Valley,0,0
+DNK2,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Trenton,0,0
+DJR3,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Manhattan,0,0
+DMO6,West Palm Beach-Boca Raton FL MSA,Broward,0,0
+DPD7,Portland-Salem OR-WA CMSA,Rainier,0,0
+DNK5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Manhattan,0,0
+DHO8,Houston-Galveston-Brazoria TX CMSA,Houston,0,0
+DUT2,Provo-Orem UT MSA,Desert North,0,0
+DRT8,Raleigh-Durham-Chapel Hill NC MSA,Tarheel,0,0
+DIB5,San Diego CA MSA,San Diego,0,0
+DPH7,York PA MSA,Delaware Valley,0,0
+DAB4,Albany-Schenectady-Troy NY MSA,Upstate NY,0,0
+DPX7,Phoenix-Mesa AZ MSA,Desert East,0,0
+DCY9,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Connecticut,0,0
+DDF1,Dallas-Fort Worth TX CMSA,Great Plains,0,0
+DBA7,Washington-Baltimore DC-MD-VA-WV CMSA,Capital,0,0
+DIA5,Des Moines IA MSA,Grain Belt,0,0
+DOM2,Omaha NE-IA MSA,Grain Belt,0,0
+DNH2,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Boston Northeast,0,0
+DBU9,Albany-Schenectady-Troy NY MSA,Upstate NY,0,0
+DRC6,Norfolk-Virginia Beach-Newport News VA-NC,Virginia,0,0
+DNJ4,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Trenton,0,0
+DLN4,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago South,0,0
+DJZ5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Manhattan,0,0
+DDF5,Dallas-Fort Worth TX CMSA,Great Plains,0,0
+DFO3,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,0,0
+DDT9,Detroit-Ann Arbor-Flint MI CMSA,Michigan,0,0
+DDV3,Denver-Boulder-Greeley CO CMSA,Colorado,0,0
+DII3,Indianapolis IN MSA,Indy,0,0
+DDW7,Washington-Baltimore DC-MD-VA-WV CMSA,DC,0,0
+DLT7,Greensboro--Winston-Salem--High Point NC MSA,Tarheel,0,0
+DLI3,Kansas City MO-KS MSA,Ozark,0,0
+DMD8,Washington-Baltimore DC-MD-VA-WV CMSA,DC,0,0
+DCM5,Columbus OH MSA,Columbus,0,0
+DXC8,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,0,0
+DTU8,Phoenix-Mesa AZ MSA,Phoenix,0,0
+DWA6,Seattle-Tacoma-Bremerton WA CMSA,Baker,0,0
+DLV4,Las Vegas NV-AZ MSA,Desert North,0,0
+DPD8,Portland-Salem OR-WA CMSA,Rockies,0,0
+DHO3,Houston-Galveston-Brazoria TX CMSA,Houston,0,0
+DUR3,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,0,0
+DLX9,Los Angeles-Riverside-Orange County CA,Los Angeles,0,0
+DDV2,Denver-Boulder-Greeley CO CMSA,Colorado,0,0
+DDP1,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Philly,0,0
+DFO9,San Francisco-Oakland-San Jose CA CMSA,North Bay,0,0
+DFT4,Atlanta GA MSA,Georgia,0,0
+DIN8,Indianapolis IN MSA,Indy,0,0
+DVA2,Richmond-Petersburg VA MSA,Virginia,0,0
+DYN5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,North Jersey,0,0
+DOB4,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Connecticut,0,0
+DBU1,Buffalo-Niagara Falls NY MSA,Upstate NY,0,0
+DMS2,Minneapolis-St. Paul MN-WI MSA,Grain Belt,0,0
+DFH1,Miami-Fort Lauderdale FL CMSA,Broward,0,0
+DJE1,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Central Jersey,0,0
+DPP7,Pittsburgh PA MSA,Cleveland-Pitt,0,0
+DFM3,Sarasota-Bradenton FL MSA,Gulf Coast,0,0
+DMD9,Washington-Baltimore DC-MD-VA-WV CMSA,DC,0,0
+DPD2,Portland-Salem OR-WA CMSA,Rainier,0,0
+DBK6,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Empire,0,0
+DBU7,Buffalo-Niagara Falls NY MSA,Upstate NY,0,0
+DSW2,Non Metro Areas,Virtual Node,0,0
+DMF3,Miami-Fort Lauderdale FL CMSA,Broward,0,0
+DMS6,Minneapolis-St. Paul MN-WI MSA,Grain Belt,0,0
+DDF2,Dallas-Fort Worth TX CMSA,DFW,0,0
+DOT4,Los Angeles-Riverside-Orange County CA,Santa Clarita,0,0
+XNK2,,Virtual Node,0,0
+DWD6,Washington-Baltimore DC-MD-VA-WV CMSA,DC,0,0
+DJZ6,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Central Jersey,0,0
+DEW5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Central Jersey,0,0
+DGR6,Grand Rapids-Muskegon-Holland MI MSA,Windlake,0,0
+DDT4,Lansing-East Lansing MI MSA,Michigan,0,0
+DAB5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Empire,0,0
+DNK7,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Central Jersey,0,0
+DSK4,Spokane WA MSA,Baker,0,0
+DPP1,Pittsburgh PA MSA,Cleveland-Pitt,0,0
+DWO1,Cincinnati-Hamilton OH-KY-IN CMSA,Cincinnati,0,0
+DAZ4,Tucson AZ MSA,Desert East,0,0
+DHO7,Houston-Galveston-Brazoria TX CMSA,Houston,0,0
+DIN4,Indianapolis IN MSA,Indy,0,0
+DYO2,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,The Bronx,0,0
+DLN3,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago North,0,0
+DLT3,Charlotte-Gastonia-Rock Hill NC-SC MSA,Sun Belt,0,0
+DGR3,Detroit-Ann Arbor-Flint MI CMSA,Michigan,0,0
+DKY4,Cincinnati-Hamilton OH-KY-IN CMSA,Cincinnati,0,0
+DMF5,Miami-Fort Lauderdale FL CMSA,Miami,0,0
+DJR1,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,North Jersey,0,0
+DWA9,Seattle-Tacoma-Bremerton WA CMSA,Rainier,0,0
+DJE9,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Trenton,0,0
+DJZ4,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,North Jersey,0,0
+DBU3,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Long Island,0,0
+DYN9,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,The Bronx,0,0
+DUT4,Salt Lake City-Ogden UT MSA,Desert North,0,0
+DVB4,Miami-Fort Lauderdale FL CMSA,Broward,0,0
+DSE1,Seattle-Tacoma-Bremerton WA CMSA,Virtual Node,0,0
+DFH7,Fort Pierce-Port St. Lucie FL MSA,Central Florida,0,0
+DPX4,Phoenix-Mesa AZ MSA,Phoenix,0,0
+DMD4,Washington-Baltimore DC-MD-VA-WV CMSA,Baltimore,0,0
+DVB5,Miami-Fort Lauderdale FL CMSA,Broward,0,0
+DPH8,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Philly,0,0
+DGT2,Atlanta GA MSA,Georgia,0,0
+DDP9,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Philly,0,0
+DIL7,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago North,0,0
+DTN6,Nashville TN MSA,Tennessee,0,0
+DDT1,Detroit-Ann Arbor-Flint MI CMSA,Michigan,0,0
+DTU2,Tucson AZ MSA,Desert East,0,0
+DJW8,Los Angeles-Riverside-Orange County CA,Inland Empire,0,0
+DCX5,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,0,0
+DBL1,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Hartford,0,0
+DPD4,Portland-Salem OR-WA CMSA,Rockies,0,0
+DDE9,Denver-Boulder-Greeley CO CMSA,Colorado,0,0
+DBA5,Washington-Baltimore DC-MD-VA-WV CMSA,Capital,0,0
+DDX2,Dallas-Fort Worth TX CMSA,Great Plains,0,0
+DLN8,Chicago-Gary-Kenosha IL-IN-WI CMSA,Chicago North,0,0
+DDW1,Washington-Baltimore DC-MD-VA-WV CMSA,DC,0,0
+DIB7,San Diego CA MSA,San Diego,0,0
+DCL5,Toledo OH MSA,Windlake,0,0
+DSJ5,Fresno CA MSA,Fresno,0,0
+DWA7,Seattle-Tacoma-Bremerton WA CMSA,Rainier,0,0
+DGT8,Atlanta GA MSA,Georgia,0,0
+DYO1,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Connecticut,0,0
+DNJ7,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,North Jersey,0,0
+DCK6,San Francisco-Oakland-San Jose CA CMSA,North Bay,0,0
+DWO6,Dayton-Springfield OH MSA,Cincinnati,0,0
+DFO2,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,0,0
+DYN7,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Empire,0,0
+DKY5,Lexington KY MSA,Cincinnati,0,0
+DRT9,Raleigh-Durham-Chapel Hill NC MSA,Tarheel,0,0
+DIA3,Des Moines IA MSA,Grain Belt,0,0
+DYN3,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,The Bronx,0,0
+DYR7,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Long Island,0,0
+DLT2,Greensboro--Winston-Salem--High Point NC MSA,Tarheel,0,0
+DCB4,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,South Shore,0,0
+DJZ8,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Central Jersey,0,0
+DPL7,Lancaster PA MSA,Delaware Valley,0,0
+DLI8,St. Louis MO-IL MSA,St. Louis,0,0
+DDV5,Denver-Boulder-Greeley CO CMSA,Colorado,0,0
+DRT7,Raleigh-Durham-Chapel Hill NC MSA,Tarheel,0,0
+DCY1,Hartford CT MSA,Hartford,0,0
+DPD6,Portland-Salem OR-WA CMSA,Rockies,0,0
+DMH4,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,South Shore,0,0
+DVA5,Washington-Baltimore DC-MD-VA-WV CMSA,Virginia,0,0
+DAT9,Atlanta GA MSA,Georgia,0,0
+DTB4,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Tri-State,0,0
+DBU2,Syracuse NY MSA,Upstate NY,0,0
+DRO2,Rochester NY MSA,Upstate NY,0,0
+DCL9,Cleveland-Akron OH CMSA,Columbus,0,0
+DBO9,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Tri-State,0,0
+DWA2,Seattle-Tacoma-Bremerton WA CMSA,Baker,0,0
+DTN7,Nashville TN MSA,Tennessee,0,0
+DKO1,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Boston Northeast,0,0
+DCL4,Cleveland-Akron OH CMSA,Columbus,0,0
+DFX3,Los Angeles-Riverside-Orange County CA,Los Angeles,0,0
+DKY8,Louisville KY-IN MSA,Indy,0,0
+DMI7,West Palm Beach-Boca Raton FL MSA,Central Florida,0,0
+DCX7,Los Angeles-Riverside-Orange County CA,Los Angeles,0,0
+DXY4,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Connecticut,0,0
+DSW3,Seattle-Tacoma-Bremerton WA CMSA,Baker,0,0
+DCL7,Cleveland-Akron OH CMSA,Columbus,0,0
+DAE3,Scranton--Wilkes-Barre--Hazleton PA MSA,Trenton,0,0
+DJE5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Central Jersey,0,0
+DAE7,Pittsburgh PA MSA,Cleveland-Pitt,0,0
+DPH9,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Philly,0,0
+DOK3,Oklahoma City OK MSA,Great Plains,0,0
+DHT1,Houston-Galveston-Brazoria TX CMSA,Bayou Belt,0,0
+DYY3,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Long Island,0,0
+DVB7,Miami-Fort Lauderdale FL CMSA,Broward,0,0
+DYY9,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Long Island,0,0
+DAX7,Los Angeles-Riverside-Orange County CA,Los Angeles,0,0
+DLT8,Charlotte-Gastonia-Rock Hill NC-SC MSA,Sun Belt,0,0
+DRI1,Providence-Fall River-Warwick RI-MA MSA,Tri-State,0,0
+DDT6,Detroit-Ann Arbor-Flint MI CMSA,Michigan,0,0
+DCL2,Canton-Massillon OH MSA,Cleveland-Pitt,0,0
+DYY6,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,North Jersey,0,0
+DWS4,Seattle-Tacoma-Bremerton WA CMSA,Baker,0,0
+DYY5,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,The Bronx,0,0
+DBK1,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Empire,0,0
+DYY4,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Empire,0,0
+DSE8,Seattle-Tacoma-Bremerton WA CMSA,Rainier,0,0
+DOR2,Norfolk-Virginia Beach-Newport News VA-NC,Virginia,0,0
+DAS7,Boston-Worcester-Lawrence MA-NH-ME-CT CMSA,Boston Northeast,0,0
+DWA5,Seattle-Tacoma-Bremerton WA CMSA,Baker,0,0
+DCN2,Columbus OH MSA,Columbus,0,0
+DXC5,San Francisco-Oakland-San Jose CA CMSA,Almond Belt,0,0
+DCM6,Columbus OH MSA,Columbus,0,0
+DID2,Boise City ID MSA,Rockies,0,0
+DOR3,Norfolk-Virginia Beach-Newport News VA-NC,Virginia,0,0
+DMD6,Washington-Baltimore DC-MD-VA-WV CMSA,Baltimore,0,0
+DBA8,Washington-Baltimore DC-MD-VA-WV CMSA,Baltimore,0,0
+DJZ2,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,The Bronx,0,0
+DRT3,Raleigh-Durham-Chapel Hill NC MSA,Tarheel,0,0
+DSW5,Seattle-Tacoma-Bremerton WA CMSA,Rainier,0,0
+DUT5,Salt Lake City-Ogden UT MSA,Desert North,0,0
+DMD2,Washington-Baltimore DC-MD-VA-WV CMSA,Baltimore,0,0
+DSM4,Sacramento-Yolo CA CMSA,Sacramento,0,0
+DBC3,Providence-Fall River-Warwick RI-MA MSA,Tri-State,0,0
+DDC4,Washington-Baltimore DC-MD-VA-WV CMSA,Capital,0,0
+DKY6,Louisville KY-IN MSA,Indy,0,0
+DAE1,Allentown-Bethlehem-Easton PA MSA,Trenton,0,0
+DML8,Milwaukee-Racine WI CMSA,Wisconsin,0,0
+DAZ2,Phoenix-Mesa AZ MSA,Phoenix,0,0
+DIB6,Los Angeles-Riverside-Orange County CA,Inland Empire,0,0
+DBK4,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Empire,0,0
+DJE2,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Delaware Valley,0,0
+DGI3,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Delaware Valley,0,0
+DAB8,New York-Northern New Jersey-Long Island NY-NJ-CT-PA,Long Island,0,0
+DLD1,Washington-Baltimore DC-MD-VA-WV CMSA,Baltimore,0,0
+DLD7,Washington-Baltimore DC-MD-VA-WV CMSA,DC,0,0
+DDP5,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Philly,0,0
+DUT7,Salt Lake City-Ogden UT MSA,Rockies,0,0
+DTU7,Phoenix-Mesa AZ MSA,Phoenix,0,0
+DAX5,Los Angeles-Riverside-Orange County CA,Orange County,0,0
+DKY9,Cincinnati-Hamilton OH-KY-IN CMSA,Cincinnati,0,0
+DDP3,Philadelphia-Wilmington-Atlantic City PA-NJ-DE-MD CMSA,Philly,0,0

@@ -1,0 +1,40 @@
+Filesystem Assistant Agent - Self Introduction
+
+Hello! I'm a filesystem assistant agent designed to help you manage files and directories. Here's what I can do for you:
+
+## My Core Capabilities:
+
+**File Operations:**
+- Read text files (complete contents or just specific lines from the beginning/end)
+- Write new files or overwrite existing ones
+- Edit existing files with line-based modifications
+- Move and rename files and directories
+
+**Directory Management:**
+- Create directories (including nested directory structures)
+- List directory contents with detailed information
+- Get recursive tree views of directory structures
+- Search for files and directories by pattern
+
+**File Information:**
+- Get detailed metadata about files (size, creation time, permissions, etc.)
+- Read media files (images, audio) as base64 encoded data
+- Handle multiple file operations efficiently
+
+## My Approach:
+
+- **Safety First**: I never save or delete files unless you explicitly ask me to
+- **Confirmation**: If you ask me to delete something, I'll always confirm first
+- **Structured Writing**: For long content, I write in manageable chunks to ensure reliability
+- **Precise Execution**: I use exactly the values you provide, especially when quoted
+
+## What I Can Help You With:
+
+- Organizing your files and folders
+- Reading and analyzing file contents
+- Creating documentation or reports
+- Searching for specific files
+- Managing project structures
+- Backing up or restructuring data
+
+I operate within allowed directories only, ensuring secure file operations. Just let me know what file management tasks you need help with, and I'll use the appropriate tools to assist you!
